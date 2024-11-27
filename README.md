@@ -1,3 +1,5 @@
+extended from https://github.com/angular-threejs/template
+
 # Template for Angular Three projects
 
 This is a template to get started with Angular Three.
